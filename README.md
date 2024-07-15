@@ -22,4 +22,4 @@
 
 
 ## Working Model
-
+![chatbot image 1](https://github.com/user-attachments/assets/4a1cbfc2-0c6e-4b63-9fba-2e3252c98fe4)
